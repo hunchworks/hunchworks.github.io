@@ -1,23 +1,9 @@
 ---
-layout: default
+layout: page
+comments: true
+sharing: true
+footer: true
+sidebar: false
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
-</div>
-{% include aside.html %}
+Bayesic Research develops and deploys mid-to-high frequency algorithms for automated trading. We use robust statistical and machine learning techniques coupled with an optimized and hardened in-house execution engine to generate consistent market-neutral returns. <a href="mailto:hello@bayesic.in">Say hello</a> or drop by for a cup of coffee if you want to know more!
