@@ -1,19 +1,20 @@
 MathJax.Hub.Config({
-    jax: ["input/TeX","output/HTML-CSS"],
-    extensions: ["tex2jax.js","MathMenu.js","MathZoom.js"],
-    tex2jax:
-        {
-            inlineMath: [ ['$','$'], ['\\(','\\)'] ],
-            displayMath: [ ['$$','$$'], ['\\[','\\]'] ],
-            skipTags: ["script","noscript","style","textarea","pre","code"],
-            processEscapes: true
-        },
-    TeX:
-        {
-            equationNumbers: { autoNumber: "AMS" },
-            TagSide: "left",
+  jax: ["input/TeX","output/HTML-CSS"],
+  extensions: ["tex2jax.js","MathMenu.js","MathZoom.js"],
+  tex2jax:
+      {
+          inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+          displayMath: [ ['$$','$$'], ['\\[','\\]'] ],
+          skipTags: ["script","noscript","style","textarea","pre","code"],
+          processEscapes: true
+      },
+  TeX:
+      {
+          equationNumbers: { autoNumber: "AMS" },
+          TagSide: "right",
 
-        },
-    "HTML-CSS": { availableFonts: ["TeX"] }
-    });
-    MathJax.Ajax.loadComplete("http://blackbell-in.github.io/javascripts/mathjaxlocal.js");
+      },
+  "HTML-CSS": { availableFonts: ["TeX"] }
+});
+
+MathJax.Ajax.loadComplete("/javascripts/mathjaxlocal.js");
