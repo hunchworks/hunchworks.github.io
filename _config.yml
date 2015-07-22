@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://bayesiq.in
-title: BayesIQ Labs
+url: http://hunchworks.in
+title: HunchWorks Labs
 subtitle: Smarter Machines
-author: BayesIQ Labs
+author: HunchWorks Labs
 simple_search: https://www.google.com/search
 description:
 
@@ -70,7 +70,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: bayesiq
+twitter_user: hunchworksin
 twitter_tweet_button: false
 
 # Google +1
