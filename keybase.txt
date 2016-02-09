@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/hunchworks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://hunchworks.in
+  * I am hunchworks (https://keybase.io/hunchworks) on keybase.
+  * I have a public key ASBS-N4kvO-kf8sOs6Z_cp6WIAKgdi6jxMeQ7K8YCV2ypAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012052f8de24bcefa47fcb0eb3a67f729e962002a0762ea3c4c790ecaf18095db2a40a",
+            "host": "keybase.io",
+            "kid": "012052f8de24bcefa47fcb0eb3a67f729e962002a0762ea3c4c790ecaf18095db2a40a",
+            "uid": "044946f544d16bda599260598f19a719",
+            "username": "hunchworks"
+        },
+        "service": {
+            "hostname": "hunchworks.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1455023232,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1455023143,
+        "hash": "523312e45482ee3422e3a32075b4307bdbfc0e14a707631cb1765d35fa0fe61f8fac5e3f64ae06205a78dc012551718482234e24d6450d1fecbcddc177a03e3c",
+        "seqno": 378588
+    },
+    "prev": "beb9ab190fdb91d6bf139a21477999c391af2706be61d966cac6189ae90c7d9a",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUvjeJLzvpH/LDrOmf3KeliACoHYuo8THkOyvGAldsqQKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTJmOGRlMjRiY2VmYTQ3ZmNiMGViM2E2N2Y3MjllOTYyMDAyYTA3NjJlYTNjNGM3OTBlY2FmMTgwOTVkYjJhNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTJmOGRlMjRiY2VmYTQ3ZmNiMGViM2E2N2Y3MjllOTYyMDAyYTA3NjJlYTNjNGM3OTBlY2FmMTgwOTVkYjJhNDBhIiwidWlkIjoiMDQ0OTQ2ZjU0NGQxNmJkYTU5OTI2MDU5OGYxOWE3MTkiLCJ1c2VybmFtZSI6Imh1bmNod29ya3MifSwic2VydmljZSI6eyJob3N0bmFtZSI6Imh1bmNod29ya3MuaW4iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjkifSwiY3RpbWUiOjE0NTUwMjMyMzIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1NTAyMzE0MywiaGFzaCI6IjUyMzMxMmU0NTQ4MmVlMzQyMmUzYTMyMDc1YjQzMDdiZGJmYzBlMTRhNzA3NjMxY2IxNzY1ZDM1ZmEwZmU2MWY4ZmFjNWUzZjY0YWUwNjIwNWE3OGRjMDEyNTUxNzE4NDgyMjM0ZTI0ZDY0NTBkMWZlY2JjZGRjMTc3YTAzZTNjIiwic2Vxbm8iOjM3ODU4OH0sInByZXYiOiJiZWI5YWIxOTBmZGI5MWQ2YmYxMzlhMjE0Nzc5OTljMzkxYWYyNzA2YmU2MWQ5NjZjYWM2MTg5YWU5MGM3ZDlhIiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCQlUS2nZ77TKtcNbcnubmmqLjrPT3W+XQitvH52GgU/QNED+RZ8g4i6xbX8pudVhyQ8G1ZyDYcMr5G5ESrW5g2oc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hunchworks
+
+==================================================================
